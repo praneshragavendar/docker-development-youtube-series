@@ -77,7 +77,7 @@ Then we can bootstrap it using the GitHub bootstrap method
 ```
 flux bootstrap github \
   --token-auth \
-  --owner=marcel-dempers \
+  --owner=praneshragavendar \
   --repository=docker-development-youtube-series \
   --path=kubernetes/fluxcd/repositories/infra-repo/clusters/dev-cluster \
   --personal \
